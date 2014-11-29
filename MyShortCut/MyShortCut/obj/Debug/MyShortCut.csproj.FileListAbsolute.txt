@@ -1,0 +1,8 @@
+D:\1.chenshiming\1.mydatas\mydocuments\Visual Studio 2008\Projects\MyShortCut\MyShortCut\obj\Debug\ResolveAssemblyReference.cache
+D:\1.chenshiming\1.mydatas\mydocuments\Visual Studio 2008\Projects\MyShortCut\MyShortCut\obj\Debug\MyShortCut.Properties.Resources.resources
+D:\1.chenshiming\1.mydatas\mydocuments\Visual Studio 2008\Projects\MyShortCut\MyShortCut\obj\Debug\MyShortCut.csproj.GenerateResource.Cache
+D:\1.chenshiming\1.mydatas\mydocuments\Visual Studio 2008\Projects\MyShortCut\MyShortCut\obj\Debug\MyShortCut.Form1.resources
+D:\1.chenshiming\1.mydatas\mydocuments\Visual Studio 2008\Projects\MyShortCut\MyShortCut\bin\Debug\MyShortCut.exe
+D:\1.chenshiming\1.mydatas\mydocuments\Visual Studio 2008\Projects\MyShortCut\MyShortCut\bin\Debug\MyShortCut.pdb
+D:\1.chenshiming\1.mydatas\mydocuments\Visual Studio 2008\Projects\MyShortCut\MyShortCut\obj\Debug\MyShortCut.exe
+D:\1.chenshiming\1.mydatas\mydocuments\Visual Studio 2008\Projects\MyShortCut\MyShortCut\obj\Debug\MyShortCut.pdb
