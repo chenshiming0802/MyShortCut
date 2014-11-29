@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<windows width="133" height="300"/>
+	<list>
+		<row text="公司项目">
+			<detail text="BSP" value="D:\4.source\cvs_outsource\BSP_PROJECT\项目文档\"/>
+			<detail text="OSP" value="D:\4.source\cvs_outsource\baosteel_osp\documents\"/>
+		</row>
+		<row text="我的项目">
+			<detail text="JERP" value="D:\www\JERP\"/>
+			<detail text="投票系统" value="D:\1.chenshiming\5.我的项目\会议投票系统\"/>
+			<detail text="ReadMe" value="C:\1.txt"/>
+			<detail text="config" value="C:\config.xml"/>
+			<detail text="FTP" value="D:\2.java\FlashFXP\flashfxp.exe"/>
+
+		</row>
+	</list>
+</config>
